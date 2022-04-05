@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Ooo
+Bundle-SymbolicName: obeotest.core
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: ooo
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: obeotest.core.model;bundle-version="1.0.0",
+ org.eclipse.emf.ecore.xmi;bundle-version="2.16.0"
